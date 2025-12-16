@@ -43,7 +43,7 @@ The analysis focuses on identifying top-performing states, key profit drivers, a
 ## Key Visuals
 
 ### Regional Sales Overview
-![Regional Sales Overview](Regional_Profit_Overview.png)
+![Regional Sales Overview](images/regional_sales_overview.png)
 Shows total sales by region, highlighting which areas generate the most revenue. Sets the context for all further analysis.
 
 ### Regional Profit Overview
