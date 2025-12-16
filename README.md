@@ -43,11 +43,11 @@ The analysis focuses on identifying top-performing states, key profit drivers, a
 ## Key Visuals
 
 ### Regional Sales Overview
-![Regional Sales Overview](images/regional_sales_map.png)
+![Regional Sales Overview](Regional_Profit_Overview.png)
 Shows total sales by region, highlighting which areas generate the most revenue. Sets the context for all further analysis.
 
 ### Regional Profit Overview
-![Regional Profit Overview](images/regional_profit_map.png)
+![Regional Profit Overview](Regional_Profit_Overview.png)
 Compares total profit across regions, revealing which high-sales regions are also efficient in profitability.
 
 ### Category Profit Performance by Region
