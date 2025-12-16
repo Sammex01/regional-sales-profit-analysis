@@ -63,6 +63,7 @@ Compares Consumer vs Corporate segment profitability across regions. Central Con
 ### Category Profit Performance Across Regions
 ![Category Profit](images/category_profit.png)  
 Highlights which product categories drive or reduce profit across regions. Technology is consistently strong; Furniture underperforms.
+
 ---
 
 ## Link to Full Presentation
