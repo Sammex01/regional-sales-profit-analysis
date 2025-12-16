@@ -47,21 +47,24 @@ The analysis focuses on identifying top-performing states, key profit drivers, a
 Shows total sales by region, highlighting which areas generate the most revenue. Sets the context for all further analysis.
 
 ### Regional Profit Overview
-![Regional Profit Overview](Regional_Profit_Overview.png)
+![Regional Profit Overview](images/regional_profit_overview.png)
 Compares total profit across regions, revealing which high-sales regions are also efficient in profitability.
 
-### Category Profit Performance by Region
-![Category Profit Performance](images/category_profit_comparison.png)
-Highlights which product categories drive or reduce profit across regions. Technology is consistently strong, Furniture underperforms.
+### West Region – Sales by State
+![West Region Sales](images/west_region_sales.png)
+*West Region: Highest Sales*
 
-### Segment Profit Performance by Region 
-![Segment Profit Performance](images/segment_profit_comparison.png)
+### West Region – Profit by State
+![West Region Profit](images/west_region_profit.png)
+*West Region: Highest Profit*
+
+### Segment Profit Performance Across Regions
+![Segment Profit for All](images/segment_profit_for_all.png)
 Compares Consumer vs Corporate segment profitability in each region. Central Consumer segment shows a margin problem.
 
-### Sales Forecast – West Region 
-![Sales Forecast – West Region](images/optional_sales_forecast.png)
-Projects future sales trends for West region or overall, offering a forward-looking view for planning.
-
+### Category Profit Performance Across Regions
+![Category Profit](images/category_profit.png)
+Highlights which product categories drive or reduce profit across regions. Technology is consistently strong, Furniture underperforms.
 ---
 
 ## Link to Full Presentation
