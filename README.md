@@ -38,33 +38,31 @@ The analysis focuses on identifying top-performing states, key profit drivers, a
 - Furniture records strong sales but recurring profit losses, especially in the Central region.  
 - The South region, while currently the smallest, shows the strongest projected growth rate.  
 ---
-
-
 ## Key Visuals
 
 ### Regional Sales Overview
-![Regional Sales Overview](images/regional_sales_overview.png)
+![Regional Sales Overview](images/regional_sales_overview.png)  
 Shows total sales by region, highlighting which areas generate the most revenue. Sets the context for all further analysis.
 
 ### Regional Profit Overview
-![Regional Profit Overview](images/regional_profit_overview.png)
+![Regional Profit Overview](images/regional_profit_overview.png)  
 Compares total profit across regions, revealing which high-sales regions are also efficient in profitability.
 
 ### West Region – Sales by State
-![West Region Sales](images/west_region_sales.png)
-*West Region: Highest Sales*
+![West Region Sales](images/west_region_sales.png)  
+*West Region: Highest Sales* – Displays sales distribution within the top-performing West region. California dominates, giving a geographic perspective.
 
 ### West Region – Profit by State
-![West Region Profit](images/west_region_profit.png)
-*West Region: Highest Profit*
+![West Region Profit](images/west_region_profit.png)  
+*West Region: Highest Profit* – Shows profit distribution in the West, demonstrating that high sales don’t always equal high profit.
 
 ### Segment Profit Performance Across Regions
-![Segment Profit for All](images/segment_profit_for_all.png)
-Compares Consumer vs Corporate segment profitability in each region. Central Consumer segment shows a margin problem.
+![Segment Profit for All](images/segment_profit_for_all.png)  
+Compares Consumer vs Corporate segment profitability across regions. Central Consumer segment shows a margin problem.
 
 ### Category Profit Performance Across Regions
-![Category Profit](images/category_profit.png)
-Highlights which product categories drive or reduce profit across regions. Technology is consistently strong, Furniture underperforms.
+![Category Profit](images/category_profit.png)  
+Highlights which product categories drive or reduce profit across regions. Technology is consistently strong; Furniture underperforms.
 ---
 
 ## Link to Full Presentation
