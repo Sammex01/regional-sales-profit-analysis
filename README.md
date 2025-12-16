@@ -69,13 +69,13 @@ Highlights which product categories drive or reduce profit across regions. Techn
 
 ## Link to Full Presentation
 
-📊 **Full Presentation:** [Regional Sales and Profit Analysis (PowerPoint)](link-to-your-presentation)
+📊 **Full Presentation:** [Regional Sales and Profit Analysis (PDF)](https://github.com/Sammex01/regional-sales-profit-analysis/blob/main/Full%20Analysis/Regional%20Sales%20and%20Profit%20Analysis%20for%20Super%20Store(2).pdf)
 
 ---
 
 ## Author / Contact
 
-**Sam [Your Last Name]**  
-- GitHub: [@yourusername](https://github.com/yourusername)  
-- LinkedIn: [Your LinkedIn](#)
+**Samuel Alabi**  
+- GitHub: [@Sammex01](https://github.com/Sammex01)  
+- LinkedIn: [@Samuel](https://www.linkedin.com/in/samuel-alabi-8b5757367/)
 
